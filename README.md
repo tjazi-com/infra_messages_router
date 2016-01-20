@@ -1,2 +1,5 @@
-# infra_messages_router
-Message router sending messages to receivers
+# Messages router
+Gist
+-----
+
+This is component routing messages from sender to receiver either within or outside of the senders region.
